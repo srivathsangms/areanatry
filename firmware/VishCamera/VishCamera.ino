@@ -7,7 +7,7 @@
 #include "esp_camera.h"
 
 const char *AP_SSID = "Vish-Camera";
-const char *AP_PASSWORD = "change-this-password"; // at least 8 characters
+const char *AP_PASSWORD = "12345678"; // at least 8 characters
 WebServer server(80);
 
 // AI Thinker ESP32-CAM pinout
